@@ -1,4 +1,4 @@
-# Put In Put Out DirtyBomb
+# Put In Put Out Dirty Bomb
 
 ## Read these rules carefully. Failure to follow any of the rules will result in immedite CTF disqualification!
 
@@ -9,7 +9,7 @@
 - When in doubt, ask first!  
 <br>
 
-## During the development of the briefcase some research was performed:
+## During the development of the dirty bomb some research was performed:
 There are some files, that seem to be an X-Ray and partial code snippets of what is running on the device(s).
 
 https://www.youtube.com/watch?v=Vg5aSlD-VCU  
